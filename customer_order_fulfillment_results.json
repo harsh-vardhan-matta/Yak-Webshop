@@ -1,0 +1,802 @@
+[
+  {
+    "customer": "Rohit_310",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 504 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Dravid_322",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Rohit_130",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1216.53 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_133",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sachin_300",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1239 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Rohit_303",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 72 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Dravid_132",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 355 units of milk and 7 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_202",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1112 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Rahul_233",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 448 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_313",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1680 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Dravid_231",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 19 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sachin_102",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 443 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Rohit_200",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 593 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Dravid_120",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1001 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Rohit_310",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 442 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Rohit_201",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 749 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Rahul_123",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1304.75 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Virat_101",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 919 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_101",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1049.54 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Dravid_131",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1363 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sachin_331",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 559 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_200",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sehwag_121",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1145.59 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_130",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 19 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_200",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sachin_101",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 292 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_111",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1018 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Virat_020",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1418.12 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Virat_123",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1878.99 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Rohit_223",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 988 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_313",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 538 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Rahul_012",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1311 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Dravid_220",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 36 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Sachin_132",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 11 units of milk and 7 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_223",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1452.18 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Rahul_002",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 233 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Virat_333",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1214 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_323",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1570.74 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_032",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1327 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rohit_301",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1559 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Virat_003",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Rahul_020",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1007 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Virat_031",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1079 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_202",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1654.48 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Rahul_031",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 668 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rahul_332",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sehwag_221",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 400 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_003",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1608.59 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_030",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1251 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Dravid_231",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1880.75 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Dravid_022",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 321 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Rahul_101",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sachin_111",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 373 units of milk and 4 skins"
+    }
+  },
+  {
+    "customer": "Rahul_033",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1616.18 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sachin_200",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 95 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Sachin_020",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1080 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_301",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 345 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rohit_221",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 719 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Sachin_100",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1296.64 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rohit_003",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1089 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sachin_132",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1264.06 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_010",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 316 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Dravid_221",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1102.27 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_321",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1458.85 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Dravid_310",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1402 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Virat_223",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 263 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_212",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1371 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Virat_202",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1100.33 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Rahul_303",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1362 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_223",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Virat_102",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1144.52 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rohit_123",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 194 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Rahul_010",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 606 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_300",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1092.2 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Rahul_020",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1912.46 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_203",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1101 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rahul_211",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1227.56 units of milk and 4 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_322",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1279 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Virat_321",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 541 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Virat_213",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 764 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Dravid_000",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1122.31 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Rohit_130",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 869 units of milk and 4 skins"
+    }
+  },
+  {
+    "customer": "Rohit_203",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Rohit_031",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1482.21 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Rohit_312",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 861 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_222",
+    "result": {
+      "status": 404,
+      "message": "Insufficient Stock",
+      "details": "Stock unavailable for the order"
+    }
+  },
+  {
+    "customer": "Sachin_033",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1752.27 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Rohit_011",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1229 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Dravid_222",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1609.5 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Rahul_102",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1847 units of milk and 1 skins"
+    }
+  },
+  {
+    "customer": "Rahul_030",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 196 units of milk and 9 skins"
+    }
+  },
+  {
+    "customer": "Dravid_230",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1099.61 units of milk and 6 skins"
+    }
+  },
+  {
+    "customer": "Dravid_202",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1247 units of milk and 4 skins"
+    }
+  },
+  {
+    "customer": "Dravid_303",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1303 units of milk and 8 skins"
+    }
+  },
+  {
+    "customer": "Sehwag_233",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 466 units of milk and 5 skins"
+    }
+  },
+  {
+    "customer": "Dravid_120",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 236 units of milk and 4 skins"
+    }
+  },
+  {
+    "customer": "Rohit_013",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 993 units of milk and 2 skins"
+    }
+  },
+  {
+    "customer": "Sachin_302",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1085 units of milk and 10 skins"
+    }
+  },
+  {
+    "customer": "Sachin_002",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 399 units of milk and 3 skins"
+    }
+  },
+  {
+    "customer": "Rahul_213",
+    "result": {
+      "status": 206,
+      "message": "Partial Order Fulfilled",
+      "details": "Partially fulfilled with 1566 units of milk and 7 skins"
+    }
+  }
+]
