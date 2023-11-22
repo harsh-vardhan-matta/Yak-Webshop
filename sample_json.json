@@ -1,0 +1,504 @@
+{
+  "herd": [
+    {
+      "name": "Betty-1",
+      "age": 100,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-2",
+      "age": 5.9,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-3",
+      "age": 18.2,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-4",
+      "age": 23.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-5",
+      "age": 26.8,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-6",
+      "age": 22.7,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-7",
+      "age": 4.8,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-8",
+      "age": 24.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-9",
+      "age": 28.2,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-10",
+      "age": 4.9,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-11",
+      "age": 100,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-12",
+      "age": 27.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-13",
+      "age": 7.6,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-14",
+      "age": 2.6,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-15",
+      "age": 24.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-16",
+      "age": 18.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-17",
+      "age": 15.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-18",
+      "age": 26.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-19",
+      "age": 25.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-20",
+      "age": 7.1,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-21",
+      "age": 100,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-22",
+      "age": 15.2,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-23",
+      "age": 12.7,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-24",
+      "age": 13.1,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-25",
+      "age": 4.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-26",
+      "age": 12.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-27",
+      "age": 6.4,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-28",
+      "age": 3.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-29",
+      "age": 18.0,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-30",
+      "age": 4.6,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-31",
+      "age": 100,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-32",
+      "age": 20.5,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-33",
+      "age": 24.6,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-34",
+      "age": 3.0,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-35",
+      "age": 21.6,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-36",
+      "age": 1.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-37",
+      "age": 17.5,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-38",
+      "age": 9.4,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-39",
+      "age": 14.5,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-40",
+      "age": 17.6,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-41",
+      "age": 100,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-42",
+      "age": 9.4,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-43",
+      "age": 11.1,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-44",
+      "age": 2.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-45",
+      "age": 15.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-46",
+      "age": 7.9,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-47",
+      "age": 1.9,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-48",
+      "age": 27.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-49",
+      "age": 7.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-50",
+      "age": 11.1,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-51",
+      "age": 100,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-52",
+      "age": 18.4,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-53",
+      "age": 22.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-54",
+      "age": 16.4,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-55",
+      "age": 21.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-56",
+      "age": 20.1,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-57",
+      "age": 8.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-58",
+      "age": 7.7,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-59",
+      "age": 9.8,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-60",
+      "age": 23.9,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-61",
+      "age": 100,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-62",
+      "age": 1.8,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-63",
+      "age": 21.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-64",
+      "age": 23.5,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-65",
+      "age": 21.6,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-66",
+      "age": 5.1,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-67",
+      "age": 1.1,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-68",
+      "age": 12.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-69",
+      "age": 3.3,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-70",
+      "age": 4.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-71",
+      "age": 100,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-72",
+      "age": 28.1,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-73",
+      "age": 16.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-74",
+      "age": 25.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-75",
+      "age": 9.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-76",
+      "age": 14.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-77",
+      "age": 17.5,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-78",
+      "age": 16.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-79",
+      "age": 21.4,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-80",
+      "age": 12.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-81",
+      "age": 100,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-82",
+      "age": 23.1,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-83",
+      "age": 8.3,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-84",
+      "age": 16.5,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-85",
+      "age": 2.4,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-86",
+      "age": 19.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-87",
+      "age": 16.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-88",
+      "age": 21.3,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-89",
+      "age": 14.8,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-90",
+      "age": 15.9,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-91",
+      "age": 100,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-92",
+      "age": 13.5,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-93",
+      "age": 5.7,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-94",
+      "age": 25.9,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-95",
+      "age": 3.7,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-96",
+      "age": 29.6,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-97",
+      "age": 15.8,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-98",
+      "age": 22.0,
+      "sex": "f"
+    },
+    {
+      "name": "Betty-99",
+      "age": 10.0,
+      "sex": "m"
+    },
+    {
+      "name": "Betty-100",
+      "age": 14.9,
+      "sex": "m"
+    }
+  ]
+}

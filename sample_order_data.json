@@ -1,0 +1,804 @@
+{
+  "samples": [
+    {
+      "customer": "Rohit_310",
+      "order": {
+        "milk": 504,
+        "skins": 1426
+      },
+      "date": "2023-08-31"
+    },
+    {
+      "customer": "Dravid_322",
+      "order": {
+        "milk": 1588,
+        "skins": 1870
+      },
+      "date": "2023-06-14"
+    },
+    {
+      "customer": "Rohit_130",
+      "order": {
+        "milk": 1771,
+        "skins": 181
+      },
+      "date": "2023-08-13"
+    },
+    {
+      "customer": "Sachin_133",
+      "order": {
+        "milk": 1365,
+        "skins": 1161
+      },
+      "date": "2023-07-27"
+    },
+    {
+      "customer": "Sachin_300",
+      "order": {
+        "milk": 1239,
+        "skins": 1800
+      },
+      "date": "2023-01-05"
+    },
+    {
+      "customer": "Rohit_303",
+      "order": {
+        "milk": 72,
+        "skins": 1634
+      },
+      "date": "2023-07-30"
+    },
+    {
+      "customer": "Dravid_132",
+      "order": {
+        "milk": 355,
+        "skins": 731
+      },
+      "date": "2023-01-01"
+    },
+    {
+      "customer": "Sehwag_202",
+      "order": {
+        "milk": 1112,
+        "skins": 1544
+      },
+      "date": "2023-10-02"
+    },
+    {
+      "customer": "Rahul_233",
+      "order": {
+        "milk": 448,
+        "skins": 118
+      },
+      "date": "2023-09-26"
+    },
+    {
+      "customer": "Sehwag_313",
+      "order": {
+        "milk": 1680,
+        "skins": 819
+      },
+      "date": "2023-03-30"
+    },
+    {
+      "customer": "Dravid_231",
+      "order": {
+        "milk": 19,
+        "skins": 1469
+      },
+      "date": "2023-07-11"
+    },
+    {
+      "customer": "Sachin_102",
+      "order": {
+        "milk": 443,
+        "skins": 829
+      },
+      "date": "2023-11-28"
+    },
+    {
+      "customer": "Rohit_200",
+      "order": {
+        "milk": 593,
+        "skins": 1493
+      },
+      "date": "2023-10-19"
+    },
+    {
+      "customer": "Dravid_120",
+      "order": {
+        "milk": 1001,
+        "skins": 57
+      },
+      "date": "2023-04-13"
+    },
+    {
+      "customer": "Rohit_310",
+      "order": {
+        "milk": 442,
+        "skins": 41
+      },
+      "date": "2023-02-08"
+    },
+    {
+      "customer": "Rohit_201",
+      "order": {
+        "milk": 749,
+        "skins": 1261
+      },
+      "date": "2023-07-07"
+    },
+    {
+      "customer": "Rahul_123",
+      "order": {
+        "milk": 1687,
+        "skins": 5
+      },
+      "date": "2023-01-18"
+    },
+    {
+      "customer": "Virat_101",
+      "order": {
+        "milk": 919,
+        "skins": 649
+      },
+      "date": "2023-12-23"
+    },
+    {
+      "customer": "Sehwag_101",
+      "order": {
+        "milk": 1193,
+        "skins": 1736
+      },
+      "date": "2023-08-23"
+    },
+    {
+      "customer": "Dravid_131",
+      "order": {
+        "milk": 1363,
+        "skins": 339
+      },
+      "date": "2023-08-07"
+    },
+    {
+      "customer": "Sachin_331",
+      "order": {
+        "milk": 559,
+        "skins": 106
+      },
+      "date": "2023-03-09"
+    },
+    {
+      "customer": "Dravid_200",
+      "order": {
+        "milk": 717,
+        "skins": 1526
+      },
+      "date": "2023-08-14"
+    },
+    {
+      "customer": "Sehwag_121",
+      "order": {
+        "milk": 1161,
+        "skins": 345
+      },
+      "date": "2023-09-19"
+    },
+    {
+      "customer": "Sehwag_130",
+      "order": {
+        "milk": 19,
+        "skins": 1118
+      },
+      "date": "2023-01-24"
+    },
+    {
+      "customer": "Dravid_200",
+      "order": {
+        "milk": 525,
+        "skins": 1633
+      },
+      "date": "2023-07-22"
+    },
+    {
+      "customer": "Sachin_101",
+      "order": {
+        "milk": 292,
+        "skins": 1118
+      },
+      "date": "2023-06-13"
+    },
+    {
+      "customer": "Sehwag_111",
+      "order": {
+        "milk": 1018,
+        "skins": 801
+      },
+      "date": "2023-08-08"
+    },
+    {
+      "customer": "Virat_020",
+      "order": {
+        "milk": 1751,
+        "skins": 1418
+      },
+      "date": "2023-04-16"
+    },
+    {
+      "customer": "Virat_123",
+      "order": {
+        "milk": 1886,
+        "skins": 940
+      },
+      "date": "2023-12-13"
+    },
+    {
+      "customer": "Rohit_223",
+      "order": {
+        "milk": 988,
+        "skins": 983
+      },
+      "date": "2023-09-12"
+    },
+    {
+      "customer": "Sachin_313",
+      "order": {
+        "milk": 538,
+        "skins": 1453
+      },
+      "date": "2023-08-28"
+    },
+    {
+      "customer": "Rahul_012",
+      "order": {
+        "milk": 1311,
+        "skins": 1899
+      },
+      "date": "2023-05-22"
+    },
+    {
+      "customer": "Dravid_220",
+      "order": {
+        "milk": 36,
+        "skins": 94
+      },
+      "date": "2023-03-09"
+    },
+    {
+      "customer": "Sachin_132",
+      "order": {
+        "milk": 11,
+        "skins": 1314
+      },
+      "date": "2023-04-11"
+    },
+    {
+      "customer": "Sehwag_223",
+      "order": {
+        "milk": 1549,
+        "skins": 497
+      },
+      "date": "2023-09-04"
+    },
+    {
+      "customer": "Rahul_002",
+      "order": {
+        "milk": 233,
+        "skins": 121
+      },
+      "date": "2023-12-25"
+    },
+    {
+      "customer": "Virat_333",
+      "order": {
+        "milk": 1214,
+        "skins": 1366
+      },
+      "date": "2023-07-02"
+    },
+    {
+      "customer": "Dravid_323",
+      "order": {
+        "milk": 1837,
+        "skins": 798
+      },
+      "date": "2023-03-28"
+    },
+    {
+      "customer": "Sehwag_032",
+      "order": {
+        "milk": 1327,
+        "skins": 412
+      },
+      "date": "2023-03-15"
+    },
+    {
+      "customer": "Rohit_301",
+      "order": {
+        "milk": 1559,
+        "skins": 532
+      },
+      "date": "2023-07-07"
+    },
+    {
+      "customer": "Virat_003",
+      "order": {
+        "milk": 947,
+        "skins": 1496
+      },
+      "date": "2023-10-11"
+    },
+    {
+      "customer": "Rahul_020",
+      "order": {
+        "milk": 1007,
+        "skins": 1839
+      },
+      "date": "2023-06-05"
+    },
+    {
+      "customer": "Virat_031",
+      "order": {
+        "milk": 1079,
+        "skins": 1469
+      },
+      "date": "2023-09-03"
+    },
+    {
+      "customer": "Dravid_202",
+      "order": {
+        "milk": 1805,
+        "skins": 1173
+      },
+      "date": "2023-11-05"
+    },
+    {
+      "customer": "Rahul_031",
+      "order": {
+        "milk": 668,
+        "skins": 837
+      },
+      "date": "2023-09-14"
+    },
+    {
+      "customer": "Rahul_332",
+      "order": {
+        "milk": 1271,
+        "skins": 677
+      },
+      "date": "2023-01-21"
+    },
+    {
+      "customer": "Sehwag_221",
+      "order": {
+        "milk": 400,
+        "skins": 173
+      },
+      "date": "2023-02-03"
+    },
+    {
+      "customer": "Sehwag_003",
+      "order": {
+        "milk": 1823,
+        "skins": 1113
+      },
+      "date": "2023-10-20"
+    },
+    {
+      "customer": "Sachin_030",
+      "order": {
+        "milk": 1251,
+        "skins": 1026
+      },
+      "date": "2023-04-12"
+    },
+    {
+      "customer": "Dravid_231",
+      "order": {
+        "milk": 1968,
+        "skins": 1299
+      },
+      "date": "2023-11-23"
+    },
+    {
+      "customer": "Dravid_022",
+      "order": {
+        "milk": 321,
+        "skins": 1193
+      },
+      "date": "2023-12-10"
+    },
+    {
+      "customer": "Rahul_101",
+      "order": {
+        "milk": 1115,
+        "skins": 948
+      },
+      "date": "2023-11-29"
+    },
+    {
+      "customer": "Sachin_111",
+      "order": {
+        "milk": 373,
+        "skins": 1848
+      },
+      "date": "2023-08-04"
+    },
+    {
+      "customer": "Rahul_033",
+      "order": {
+        "milk": 1675,
+        "skins": 473
+      },
+      "date": "2023-05-21"
+    },
+    {
+      "customer": "Sachin_200",
+      "order": {
+        "milk": 95,
+        "skins": 1490
+      },
+      "date": "2023-03-22"
+    },
+    {
+      "customer": "Sachin_020",
+      "order": {
+        "milk": 1080,
+        "skins": 1750
+      },
+      "date": "2023-02-23"
+    },
+    {
+      "customer": "Dravid_301",
+      "order": {
+        "milk": 345,
+        "skins": 892
+      },
+      "date": "2023-06-11"
+    },
+    {
+      "customer": "Rohit_221",
+      "order": {
+        "milk": 719,
+        "skins": 1242
+      },
+      "date": "2023-09-06"
+    },
+    {
+      "customer": "Sachin_100",
+      "order": {
+        "milk": 1589,
+        "skins": 312
+      },
+      "date": "2023-05-02"
+    },
+    {
+      "customer": "Rohit_003",
+      "order": {
+        "milk": 1089,
+        "skins": 1730
+      },
+      "date": "2023-05-02"
+    },
+    {
+      "customer": "Sachin_132",
+      "order": {
+        "milk": 1703,
+        "skins": 1384
+      },
+      "date": "2023-01-09"
+    },
+    {
+      "customer": "Sehwag_010",
+      "order": {
+        "milk": 316,
+        "skins": 626
+      },
+      "date": "2023-03-21"
+    },
+    {
+      "customer": "Dravid_221",
+      "order": {
+        "milk": 1982,
+        "skins": 249
+      },
+      "date": "2023-07-26"
+    },
+    {
+      "customer": "Sehwag_321",
+      "order": {
+        "milk": 1859,
+        "skins": 1032
+      },
+      "date": "2023-05-06"
+    },
+    {
+      "customer": "Dravid_310",
+      "order": {
+        "milk": 1402,
+        "skins": 1972
+      },
+      "date": "2023-08-08"
+    },
+    {
+      "customer": "Virat_223",
+      "order": {
+        "milk": 263,
+        "skins": 1041
+      },
+      "date": "2023-05-18"
+    },
+    {
+      "customer": "Sehwag_212",
+      "order": {
+        "milk": 1371,
+        "skins": 641
+      },
+      "date": "2023-02-16"
+    },
+    {
+      "customer": "Virat_202",
+      "order": {
+        "milk": 1343,
+        "skins": 784
+      },
+      "date": "2023-09-06"
+    },
+    {
+      "customer": "Rahul_303",
+      "order": {
+        "milk": 1362,
+        "skins": 1889
+      },
+      "date": "2023-03-16"
+    },
+    {
+      "customer": "Sehwag_223",
+      "order": {
+        "milk": 569,
+        "skins": 625
+      },
+      "date": "2023-09-09"
+    },
+    {
+      "customer": "Virat_102",
+      "order": {
+        "milk": 1935,
+        "skins": 901
+      },
+      "date": "2023-05-04"
+    },
+    {
+      "customer": "Rohit_123",
+      "order": {
+        "milk": 194,
+        "skins": 1398
+      },
+      "date": "2023-04-10"
+    },
+    {
+      "customer": "Rahul_010",
+      "order": {
+        "milk": 606,
+        "skins": 1629
+      },
+      "date": "2023-07-24"
+    },
+    {
+      "customer": "Sachin_300",
+      "order": {
+        "milk": 1455,
+        "skins": 1896
+      },
+      "date": "2023-02-28"
+    },
+    {
+      "customer": "Rahul_020",
+      "order": {
+        "milk": 1947,
+        "skins": 146
+      },
+      "date": "2023-12-11"
+    },
+    {
+      "customer": "Sehwag_203",
+      "order": {
+        "milk": 1101,
+        "skins": 493
+      },
+      "date": "2023-12-17"
+    },
+    {
+      "customer": "Rahul_211",
+      "order": {
+        "milk": 1806,
+        "skins": 987
+      },
+      "date": "2023-02-07"
+    },
+    {
+      "customer": "Sehwag_322",
+      "order": {
+        "milk": 1279,
+        "skins": 307
+      },
+      "date": "2023-03-16"
+    },
+    {
+      "customer": "Virat_321",
+      "order": {
+        "milk": 541,
+        "skins": 1821
+      },
+      "date": "2023-03-05"
+    },
+    {
+      "customer": "Virat_213",
+      "order": {
+        "milk": 764,
+        "skins": 634
+      },
+      "date": "2023-10-17"
+    },
+    {
+      "customer": "Dravid_000",
+      "order": {
+        "milk": 1970,
+        "skins": 1408
+      },
+      "date": "2023-02-23"
+    },
+    {
+      "customer": "Rohit_130",
+      "order": {
+        "milk": 869,
+        "skins": 673
+      },
+      "date": "2023-06-13"
+    },
+    {
+      "customer": "Rohit_203",
+      "order": {
+        "milk": 1263,
+        "skins": 1582
+      },
+      "date": "2023-02-03"
+    },
+    {
+      "customer": "Rohit_031",
+      "order": {
+        "milk": 1554,
+        "skins": 651
+      },
+      "date": "2023-09-30"
+    },
+    {
+      "customer": "Rohit_312",
+      "order": {
+        "milk": 861,
+        "skins": 188
+      },
+      "date": "2023-04-25"
+    },
+    {
+      "customer": "Sachin_222",
+      "order": {
+        "milk": 758,
+        "skins": 1872
+      },
+      "date": "2023-07-12"
+    },
+    {
+      "customer": "Sachin_033",
+      "order": {
+        "milk": 1813,
+        "skins": 1305
+      },
+      "date": "2023-09-15"
+    },
+    {
+      "customer": "Rohit_011",
+      "order": {
+        "milk": 1229,
+        "skins": 1253
+      },
+      "date": "2023-01-12"
+    },
+    {
+      "customer": "Dravid_222",
+      "order": {
+        "milk": 1649,
+        "skins": 1088
+      },
+      "date": "2023-01-28"
+    },
+    {
+      "customer": "Rahul_102",
+      "order": {
+        "milk": 1847,
+        "skins": 1432
+      },
+      "date": "2023-08-28"
+    },
+    {
+      "customer": "Rahul_030",
+      "order": {
+        "milk": 196,
+        "skins": 1564
+      },
+      "date": "2023-02-09"
+    },
+    {
+      "customer": "Dravid_230",
+      "order": {
+        "milk": 1836,
+        "skins": 1949
+      },
+      "date": "2023-09-15"
+    },
+    {
+      "customer": "Dravid_202",
+      "order": {
+        "milk": 1247,
+        "skins": 451
+      },
+      "date": "2023-02-28"
+    },
+    {
+      "customer": "Dravid_303",
+      "order": {
+        "milk": 1303,
+        "skins": 737
+      },
+      "date": "2023-04-15"
+    },
+    {
+      "customer": "Sehwag_233",
+      "order": {
+        "milk": 466,
+        "skins": 492
+      },
+      "date": "2023-04-19"
+    },
+    {
+      "customer": "Dravid_120",
+      "order": {
+        "milk": 236,
+        "skins": 474
+      },
+      "date": "2023-11-01"
+    },
+    {
+      "customer": "Rohit_013",
+      "order": {
+        "milk": 993,
+        "skins": 339
+      },
+      "date": "2023-12-08"
+    },
+    {
+      "customer": "Sachin_302",
+      "order": {
+        "milk": 1085,
+        "skins": 123
+      },
+      "date": "2023-06-11"
+    },
+    {
+      "customer": "Sachin_002",
+      "order": {
+        "milk": 399,
+        "skins": 1138
+      },
+      "date": "2023-11-16"
+    },
+    {
+      "customer": "Rahul_213",
+      "order": {
+        "milk": 1566,
+        "skins": 1990
+      },
+      "date": "2023-07-15"
+    }
+  ]
+}
