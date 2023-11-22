@@ -7,4 +7,4 @@ All details which covers:
 3. Overview of jupyter notebooks, .py files
 4. data set files (.json, .csv)
 
-are available in documentation.docx file
+are available in documentation_and_reasoning.pdf file
