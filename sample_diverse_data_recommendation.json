@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Betty-1",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 96.19,
+        "last_checkup_date": "2023-10-19"
+    },
+    {
+        "name": "Betty-2",
+        "age": 5.9,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 156.81,
+        "last_checkup_date": "2023-10-25"
+    },
+    {
+        "name": "Betty-3",
+        "age": 18.2,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 53.22,
+        "last_checkup_date": "2023-06-16"
+    },
+    {
+        "name": "Betty-4",
+        "age": 23.3,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 109.01,
+        "last_checkup_date": "2023-06-15"
+    },
+    {
+        "name": "Betty-5",
+        "age": 26.8,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 61.67,
+        "last_checkup_date": "2023-10-01"
+    },
+    {
+        "name": "Betty-6",
+        "age": 22.7,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 98.81,
+        "last_checkup_date": "2023-06-27"
+    },
+    {
+        "name": "Betty-7",
+        "age": 4.8,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 112.4,
+        "last_checkup_date": "2023-11-21"
+    },
+    {
+        "name": "Betty-8",
+        "age": 24.8,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 78.01,
+        "last_checkup_date": "2023-06-02"
+    },
+    {
+        "name": "Betty-9",
+        "age": 28.2,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 76.18,
+        "last_checkup_date": "2023-09-05"
+    },
+    {
+        "name": "Betty-10",
+        "age": 4.9,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 176.5,
+        "last_checkup_date": "2023-08-04"
+    },
+    {
+        "name": "Betty-11",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 154.95,
+        "last_checkup_date": "2023-06-20"
+    },
+    {
+        "name": "Betty-12",
+        "age": 27.0,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 59.12,
+        "last_checkup_date": "2023-09-06"
+    },
+    {
+        "name": "Betty-13",
+        "age": 7.6,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 115.73,
+        "last_checkup_date": "2023-06-26"
+    },
+    {
+        "name": "Betty-14",
+        "age": 2.6,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 107.45,
+        "last_checkup_date": "2023-08-05"
+    },
+    {
+        "name": "Betty-15",
+        "age": 24.8,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 191.61,
+        "last_checkup_date": "2023-06-04"
+    },
+    {
+        "name": "Betty-16",
+        "age": 18.8,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 145.18,
+        "last_checkup_date": "2023-06-29"
+    },
+    {
+        "name": "Betty-17",
+        "age": 15.7,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 74.39,
+        "last_checkup_date": "2023-07-13"
+    },
+    {
+        "name": "Betty-18",
+        "age": 26.8,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 96.49,
+        "last_checkup_date": "2023-11-18"
+    },
+    {
+        "name": "Betty-19",
+        "age": 25.7,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 192.59,
+        "last_checkup_date": "2023-07-09"
+    },
+    {
+        "name": "Betty-20",
+        "age": 7.1,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 116.55,
+        "last_checkup_date": "2023-06-30"
+    },
+    {
+        "name": "Betty-21",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 145.84,
+        "last_checkup_date": "2023-08-06"
+    },
+    {
+        "name": "Betty-22",
+        "age": 15.2,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 178.75,
+        "last_checkup_date": "2023-09-17"
+    },
+    {
+        "name": "Betty-23",
+        "age": 12.7,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 116.18,
+        "last_checkup_date": "2023-09-08"
+    },
+    {
+        "name": "Betty-24",
+        "age": 13.1,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 53.63,
+        "last_checkup_date": "2023-09-20"
+    },
+    {
+        "name": "Betty-25",
+        "age": 4.8,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 112.56,
+        "last_checkup_date": "2023-11-09"
+    },
+    {
+        "name": "Betty-26",
+        "age": 12.3,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 106.26,
+        "last_checkup_date": "2023-10-31"
+    },
+    {
+        "name": "Betty-27",
+        "age": 6.4,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 129.18,
+        "last_checkup_date": "2023-10-23"
+    },
+    {
+        "name": "Betty-28",
+        "age": 3.7,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 56.18,
+        "last_checkup_date": "2023-10-01"
+    },
+    {
+        "name": "Betty-29",
+        "age": 18.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 71.52,
+        "last_checkup_date": "2023-09-26"
+    },
+    {
+        "name": "Betty-30",
+        "age": 4.6,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 120.4,
+        "last_checkup_date": "2023-09-22"
+    },
+    {
+        "name": "Betty-31",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 160.65,
+        "last_checkup_date": "2023-09-22"
+    },
+    {
+        "name": "Betty-32",
+        "age": 20.5,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 148.54,
+        "last_checkup_date": "2023-08-09"
+    },
+    {
+        "name": "Betty-33",
+        "age": 24.6,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 60.93,
+        "last_checkup_date": "2023-09-22"
+    },
+    {
+        "name": "Betty-34",
+        "age": 3.0,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 123.31,
+        "last_checkup_date": "2023-09-25"
+    },
+    {
+        "name": "Betty-35",
+        "age": 21.6,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 132.49,
+        "last_checkup_date": "2023-08-08"
+    },
+    {
+        "name": "Betty-36",
+        "age": 1.8,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 115.04,
+        "last_checkup_date": "2023-09-13"
+    },
+    {
+        "name": "Betty-37",
+        "age": 17.5,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 114.66,
+        "last_checkup_date": "2023-09-20"
+    },
+    {
+        "name": "Betty-38",
+        "age": 9.4,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 159.15,
+        "last_checkup_date": "2023-07-21"
+    },
+    {
+        "name": "Betty-39",
+        "age": 14.5,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 92.73,
+        "last_checkup_date": "2023-10-20"
+    },
+    {
+        "name": "Betty-40",
+        "age": 17.6,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 90.5,
+        "last_checkup_date": "2023-11-17"
+    },
+    {
+        "name": "Betty-41",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 77.39,
+        "last_checkup_date": "2023-09-08"
+    },
+    {
+        "name": "Betty-42",
+        "age": 9.4,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 115.9,
+        "last_checkup_date": "2023-11-17"
+    },
+    {
+        "name": "Betty-43",
+        "age": 11.1,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 114.3,
+        "last_checkup_date": "2023-06-05"
+    },
+    {
+        "name": "Betty-44",
+        "age": 2.0,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 104.06,
+        "last_checkup_date": "2023-10-26"
+    },
+    {
+        "name": "Betty-45",
+        "age": 15.7,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 152.63,
+        "last_checkup_date": "2023-06-10"
+    },
+    {
+        "name": "Betty-46",
+        "age": 7.9,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 118.97,
+        "last_checkup_date": "2023-06-30"
+    },
+    {
+        "name": "Betty-47",
+        "age": 1.9,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 77.76,
+        "last_checkup_date": "2023-10-08"
+    },
+    {
+        "name": "Betty-48",
+        "age": 27.0,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 118.15,
+        "last_checkup_date": "2023-10-15"
+    },
+    {
+        "name": "Betty-49",
+        "age": 7.3,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 133.46,
+        "last_checkup_date": "2023-07-11"
+    },
+    {
+        "name": "Betty-50",
+        "age": 11.1,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 187.39,
+        "last_checkup_date": "2023-11-06"
+    },
+    {
+        "name": "Betty-51",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 169.32,
+        "last_checkup_date": "2023-08-15"
+    },
+    {
+        "name": "Betty-52",
+        "age": 18.4,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 170.68,
+        "last_checkup_date": "2023-09-30"
+    },
+    {
+        "name": "Betty-53",
+        "age": 22.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 162.2,
+        "last_checkup_date": "2023-06-30"
+    },
+    {
+        "name": "Betty-54",
+        "age": 16.4,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 169.7,
+        "last_checkup_date": "2023-10-26"
+    },
+    {
+        "name": "Betty-55",
+        "age": 21.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 193.11,
+        "last_checkup_date": "2023-06-10"
+    },
+    {
+        "name": "Betty-56",
+        "age": 20.1,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 72.74,
+        "last_checkup_date": "2023-07-05"
+    },
+    {
+        "name": "Betty-57",
+        "age": 8.3,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 68.16,
+        "last_checkup_date": "2023-10-22"
+    },
+    {
+        "name": "Betty-58",
+        "age": 7.7,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 90.81,
+        "last_checkup_date": "2023-06-10"
+    },
+    {
+        "name": "Betty-59",
+        "age": 9.8,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 124.92,
+        "last_checkup_date": "2023-06-25"
+    },
+    {
+        "name": "Betty-60",
+        "age": 23.9,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 176.22,
+        "last_checkup_date": "2023-08-05"
+    },
+    {
+        "name": "Betty-61",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 105.99,
+        "last_checkup_date": "2023-09-03"
+    },
+    {
+        "name": "Betty-62",
+        "age": 1.8,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 128.19,
+        "last_checkup_date": "2023-08-06"
+    },
+    {
+        "name": "Betty-63",
+        "age": 21.7,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 51.83,
+        "last_checkup_date": "2023-10-11"
+    },
+    {
+        "name": "Betty-64",
+        "age": 23.5,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 155.05,
+        "last_checkup_date": "2023-07-19"
+    },
+    {
+        "name": "Betty-65",
+        "age": 21.6,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 81.91,
+        "last_checkup_date": "2023-11-16"
+    },
+    {
+        "name": "Betty-66",
+        "age": 5.1,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 163.99,
+        "last_checkup_date": "2023-09-29"
+    },
+    {
+        "name": "Betty-67",
+        "age": 1.1,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 76.37,
+        "last_checkup_date": "2023-10-17"
+    },
+    {
+        "name": "Betty-68",
+        "age": 12.3,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 115.64,
+        "last_checkup_date": "2023-09-17"
+    },
+    {
+        "name": "Betty-69",
+        "age": 3.3,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 126.24,
+        "last_checkup_date": "2023-11-06"
+    },
+    {
+        "name": "Betty-70",
+        "age": 4.3,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 79.11,
+        "last_checkup_date": "2023-09-29"
+    },
+    {
+        "name": "Betty-71",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 84.26,
+        "last_checkup_date": "2023-07-24"
+    },
+    {
+        "name": "Betty-72",
+        "age": 28.1,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 154.62,
+        "last_checkup_date": "2023-11-05"
+    },
+    {
+        "name": "Betty-73",
+        "age": 16.8,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 140.96,
+        "last_checkup_date": "2023-09-04"
+    },
+    {
+        "name": "Betty-74",
+        "age": 25.7,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 134.89,
+        "last_checkup_date": "2023-07-07"
+    },
+    {
+        "name": "Betty-75",
+        "age": 9.7,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 172.97,
+        "last_checkup_date": "2023-07-10"
+    },
+    {
+        "name": "Betty-76",
+        "age": 14.3,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 125.63,
+        "last_checkup_date": "2023-06-07"
+    },
+    {
+        "name": "Betty-77",
+        "age": 17.5,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 164.17,
+        "last_checkup_date": "2023-09-20"
+    },
+    {
+        "name": "Betty-78",
+        "age": 16.7,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 99.68,
+        "last_checkup_date": "2023-06-26"
+    },
+    {
+        "name": "Betty-79",
+        "age": 21.4,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 188.23,
+        "last_checkup_date": "2023-07-02"
+    },
+    {
+        "name": "Betty-80",
+        "age": 12.7,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 64.07,
+        "last_checkup_date": "2023-11-19"
+    },
+    {
+        "name": "Betty-81",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 162.89,
+        "last_checkup_date": "2023-08-27"
+    },
+    {
+        "name": "Betty-82",
+        "age": 23.1,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 171.86,
+        "last_checkup_date": "2023-08-14"
+    },
+    {
+        "name": "Betty-83",
+        "age": 8.3,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 103.24,
+        "last_checkup_date": "2023-09-30"
+    },
+    {
+        "name": "Betty-84",
+        "age": 16.5,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 73.3,
+        "last_checkup_date": "2023-06-30"
+    },
+    {
+        "name": "Betty-85",
+        "age": 2.4,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 171.34,
+        "last_checkup_date": "2023-09-02"
+    },
+    {
+        "name": "Betty-86",
+        "age": 19.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 134.03,
+        "last_checkup_date": "2023-09-18"
+    },
+    {
+        "name": "Betty-87",
+        "age": 16.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 116.91,
+        "last_checkup_date": "2023-06-04"
+    },
+    {
+        "name": "Betty-88",
+        "age": 21.3,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 129.08,
+        "last_checkup_date": "2023-09-01"
+    },
+    {
+        "name": "Betty-89",
+        "age": 14.8,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 187.5,
+        "last_checkup_date": "2023-07-26"
+    },
+    {
+        "name": "Betty-90",
+        "age": 15.9,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 107.72,
+        "last_checkup_date": "2023-08-21"
+    },
+    {
+        "name": "Betty-91",
+        "age": 100,
+        "health": "special_health",
+        "behavior": "special_behavior",
+        "weight_kg": 56.08,
+        "last_checkup_date": "2023-10-15"
+    },
+    {
+        "name": "Betty-92",
+        "age": 13.5,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 144.29,
+        "last_checkup_date": "2023-07-20"
+    },
+    {
+        "name": "Betty-93",
+        "age": 5.7,
+        "health": "excellent",
+        "behavior": "positive",
+        "weight_kg": 75.14,
+        "last_checkup_date": "2023-09-05"
+    },
+    {
+        "name": "Betty-94",
+        "age": 25.9,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 129.03,
+        "last_checkup_date": "2023-09-14"
+    },
+    {
+        "name": "Betty-95",
+        "age": 3.7,
+        "health": "excellent",
+        "behavior": "playful",
+        "weight_kg": 189.06,
+        "last_checkup_date": "2023-11-18"
+    },
+    {
+        "name": "Betty-96",
+        "age": 29.6,
+        "health": "poor",
+        "behavior": "negative",
+        "weight_kg": 106.68,
+        "last_checkup_date": "2023-07-28"
+    },
+    {
+        "name": "Betty-97",
+        "age": 15.8,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 196.73,
+        "last_checkup_date": "2023-11-20"
+    },
+    {
+        "name": "Betty-98",
+        "age": 22.0,
+        "health": "fair",
+        "behavior": "stubborn",
+        "weight_kg": 66.86,
+        "last_checkup_date": "2023-10-07"
+    },
+    {
+        "name": "Betty-99",
+        "age": 10.0,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 57.24,
+        "last_checkup_date": "2023-10-08"
+    },
+    {
+        "name": "Betty-100",
+        "age": 14.9,
+        "health": "good",
+        "behavior": "calm",
+        "weight_kg": 199.34,
+        "last_checkup_date": "2023-10-11"
+    }
+]
